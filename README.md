@@ -1,4 +1,5 @@
 # Decentralised Multi-Factor Authentication on Web 3.0
+[![CI](https://github.com/chythrabandaru/web3-decentralised-mfa/actions/workflows/ci.yml/badge.svg)](https://github.com/chythrabandaru/web3-decentralised-mfa/actions/workflows/ci.yml)
 
 > **Distinction Grade — B.Tech Final Year Project · 500+ simulated user sessions · Eliminates centralised single-point-of-failure risk**
 
